@@ -1,2 +1,2 @@
-console.logj (hello world)
+console.log.(hello world)
 

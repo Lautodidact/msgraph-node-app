@@ -1,0 +1,13 @@
+{
+  "name": "msgraph-node-app",
+  "version": "0.1.0",
+  "description": "Automatisation Microsoft Graph (emails, calendrier, OneDrive)",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
